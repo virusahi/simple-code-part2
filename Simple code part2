@@ -16,7 +16,7 @@ int main() {
 
     else
 
-        printf("%d is odd.", num);
+        printf("%d is now odd.", num);
 
     
 
